@@ -1,0 +1,5 @@
+/home/damato/runaschique2/runaschique2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/damato/runaschique2/runaschique2/bin/Debug/RunAsChique.exe.mdb
+/home/damato/runaschique2/runaschique2/bin/Debug/RunAsChique.exe
+/home/damato/runaschique2/runaschique2/obj/x86/Debug/RunAsChique.exe
+/home/damato/runaschique2/runaschique2/obj/x86/Debug/RunAsChique.exe.mdb
